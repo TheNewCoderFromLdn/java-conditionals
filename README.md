@@ -1,2 +1,2 @@
-# java-conditionals
-This exercise involved learning about conditionals. The exercises can be found here: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Conditionals
+The assignments in this section were about using conditionals in real world situations.
+THe link to these assignments can be found here: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Conditionals
